@@ -1,0 +1,1 @@
+json.extract! @quote, :id, :text, :author, :index, :next_index, :previous_index 
